@@ -1,5 +1,3 @@
-- 👋 Ahoy, I’m @cbg4
-- I’m interested in building unique engagement expereinces between government and citizens
-- I’m currently learning how to leverage code to improve community engagement
-- I’m looking to collaborate with other digital engagement software tools used in PubSec
+- Ahoy, Chaz here from the Twilio PubSec team...
+- I here to build unique engagement expereinces between government and citizens leveraging code!
 - I can be reached at cgarrity@twilio.com
