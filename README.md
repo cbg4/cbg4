@@ -1,3 +1,3 @@
 - Ahoy, Chaz here from the Twilio PubSec team...
-- I here to build unique engagement expereinces between government and citizens leveraging code!
+- I'm here to build unique engagement expereinces between government and citizens leveraging code!
 - I can be reached at cgarrity@twilio.com
